@@ -1,0 +1,29 @@
+header, main {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+  
+}
+
+button {
+    font-family:monospace;
+    height: 50px;
+    width: 90px;
+    border-width: 1px;
+    border-color: rgb(10, 3, 37);
+    background-color: rgb(39, 2, 99);
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+body{
+    background-color: rgb(10, 3, 37);
+}
+
+h1{
+ font-family:monospace;
+ color: rgb(255, 187, 0);
+ font-size: 50px;
+}
